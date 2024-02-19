@@ -12,4 +12,7 @@ print(f"Рост папы - {my_family_height[1][1]} см")
 print(f"Рост брата - {my_family_height[2][1]} см")
 print(f"Рост бабушки - {my_family_height[3][1]} см")
 
-print(f"Общий рост моей семьи - {sum([my_family_height[x][1] for x in range(len(my_family_height))])} см")
+for x in range(len(my_family_height)):
+    summa = sum([my_family_height[x][1]])
+
+print(f"Общий рост моей семьи - {summa} см")
