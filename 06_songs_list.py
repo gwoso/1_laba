@@ -10,8 +10,8 @@ violator_songs_list = [
     ['Clean', 5.83],
 ]
 
-summa1 = violator_songs_list[3][1] + violator_songs_list[5][1] + violator_songs_list[8][1]
-print(f"Три песни звучат - {round(summa1, 2)} минут")
+summa1 = round(violator_songs_list[3][1] + violator_songs_list[5][1] + violator_songs_list[8][1], 2)
+print(f"Три песни звучат - {summa1} минут")
 
 violator_songs_dict = {
     'World in My Eyes': 4.76,
@@ -25,6 +25,5 @@ violator_songs_dict = {
     'Clean': 5.68,
 }
 
-summa2 = round(violator_songs_dict["Sweetest Perfection"] + violator_songs_dict["Policy of Truth"] + violator_songs_dict["Blue Dress"],2)
+summa2 = round(violator_songs_dict["Sweetest Perfection"] + violator_songs_dict["Policy of Truth"] + violator_songs_dict["Blue Dress"], 2)
 print(f"А другие три песни звучат {summa2} минут")
-
