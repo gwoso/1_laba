@@ -40,3 +40,12 @@
 2. Для каждого фильма отдельно выводим результат
 ### Результат 
 ![image](https://github.com/gwoso/1_laba/assets/150545779/254e0e66-9da1-478a-ae97-3696fbc6b3a4)
+## 04_my_family.py
+### Условие 
+![image](https://github.com/gwoso/1_laba/assets/150545779/c6a9b0bf-bc15-4958-b6fb-54cb533a7f44)
+### Алгоритм
+1. Создаём в `my_family_height` список роста у членов семьи
+2. Выводим их рост
+3. Выводим сумму ростов. Для этого нужно будет использовать цикл `for` для `x`, равный длине списка.
+### Результат
+![image](https://github.com/gwoso/1_laba/assets/150545779/70e5b6ef-cd45-486c-a8c3-74db55706ada)
