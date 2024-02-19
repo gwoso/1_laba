@@ -24,4 +24,11 @@
 6. Выводим результат
 ### Результат
 ![image](https://github.com/gwoso/1_laba/assets/150545779/5b9aa7df-574a-49f4-90ec-dba9e5188cdc)
-## 
+## 02_operations.py
+### Условие 
+![image](https://github.com/gwoso/1_laba/assets/150545779/b66224ea-cbc6-4940-8781-44ca858af48a)
+### Алгоритм 
+1. Создаём переменную `asd`, в которой записываем выражение, при выполнении которого должно получится число 25
+2. Выводим ответ
+### Результат
+![image](https://github.com/gwoso/1_laba/assets/150545779/c6f54da9-874e-46ba-8ffd-624621e2b528)
